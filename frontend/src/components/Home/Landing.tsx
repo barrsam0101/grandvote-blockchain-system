@@ -9,9 +9,9 @@ const Landing = () => {
           <img src="logo.png" />
         </div>
 
-        <div className="title-large">Blockchain Based</div>
-        <div className="title-large">Voting System</div>
-        <div className="title-small">the future of voting</div>
+        <div className="title-large">Grandvote</div>
+        <div className="title-large">Blockchain Based Voting System</div>
+        <div className="title-small">Where transparency is the key</div>
 
         <div className="button-wrapper">
           <Link to="/login">
@@ -19,7 +19,7 @@ const Landing = () => {
           </Link>
 
           <Link to="/view">
-            <button>View Votes</button>
+            <button>Check Votes</button>
           </Link>
         </div>
       </div>
