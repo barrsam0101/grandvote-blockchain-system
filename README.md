@@ -21,7 +21,7 @@ To run the demo follow these steps:
 
    # Make sure you have the above prerequisites installed already!
    git clone https://github.com/barrsam0101/grandvote-blockchain-system
-   cd blockvotenow # Navigate to the new folder.
+   cd grandvote-blockchain-system # Navigate to the new folder.
    yarn install # Installs all the dependencies.
    ```
 
